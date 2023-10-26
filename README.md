@@ -2,7 +2,8 @@
 
 Nix conducted a mock technical interview with me on 10/26/23, just as she would for her company Olo, as if we had we never met.
 
-Nix gave me full marks for virtually all aspects of the interview
+Nix gave me full marks for virtually all aspects of the interview.
+<br>
 She commended me on:
 <br>
 -rephrasing the deliverables and asking clarifying questions
@@ -25,6 +26,9 @@ She commended me on:
 <br>
 <br>
 Typically, a junior engineer would only be expected to solve the first deliverable, but I solved all of them!
+<br>
 Nix did suggest I use 3 edge cases when testing my methods
+<br>
 She also suggested that ChatGPT might not be as reliable when dealing with larger codebases/complex file/function structure
+<br>
 Regardless, she said she would absolutely hire me as a junior engineer and said I did exceptionally well!
